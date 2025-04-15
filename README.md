@@ -1,6 +1,4 @@
-I am a Computer Science Undergraduate at [Multimedia University](https://en.wikipedia.org/wiki/Multimedia_University), previously interned as a Data Scientist in the Machine Learning Solutions team at [MoneyLion](https://www.moneylion.com/). I enjoy solving problems and reading about cool concepts. 
+Computer Science graduate from [UiTM](https://ms.wikipedia.org/wiki/Universiti_Teknologi_MARA) with internship experience at [INCEIF University](https://en.wikipedia.org/wiki/International_Centre_for_Education_in_Islamic_Finance). Passionate about data science, development, and solving real-world problems. Currently seeking full-time opportunities in tech.
 
 Check me out elsewhere:
-- [Personal Website](https://wyhong3103.tech/)
-- [LinkedIn](https://www.linkedin.com/in/wong-yen-hong/)
-- [Codeforces](https://codeforces.com/profile/wyhong3103)
+- [LinkedIn](www.linkedin.com/in/farahalysaazizan)
