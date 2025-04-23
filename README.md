@@ -12,5 +12,5 @@
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/farahalysaazizan/)
 
-🚀 I upload my projects here to share what I’ve learned and built. Thanks for stopping by!
+
 
