@@ -2,7 +2,7 @@
 ## 🔧 Tech Stack:
 
 - **Languages**: Python, PHP, MATLAB, JavaScript, HTML/CSS
-- **Frameworks**: Laravel (beginner), CodeIgniter, Flask
+- **Frameworks**: CodeIgniter, Flask
 - **Tools**: MySQL, VS Code, MATLAB, XAMPP, Jupyter Notebook, Canva, Construct 3
 
 ## 📫 Let's Connect!
