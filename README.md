@@ -3,7 +3,7 @@
 
 - **Languages**: Python, PHP, MATLAB, JavaScript, HTML/CSS
 - **Frameworks**: Laravel (beginner), CodeIgniter, Flask
-- **Tools**: MySQL, Git, VS Code, MATLAB, XAMPP, Jupyter Notebook, Canva, Construct 3
+- **Tools**: MySQL, VS Code, MATLAB, XAMPP, Jupyter Notebook, Canva, Construct 3
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/farahalysaazizan/)
